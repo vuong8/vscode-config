@@ -1,0 +1,1 @@
+code --list-extensions >> ./backup/vscode_extensions.txt
